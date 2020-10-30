@@ -8,6 +8,6 @@ making a mount was easy and it was a good start
 ![Tire](https://github.com/ayahya70/Caster/raw/master/Tire.PNG)
 Naking a tire I thought would be hard but it wasnt
 
-![washer](https://github.com/ayahya70/Caster/raw/master/washer.PNG)
+![washer](https://github.com/ayahya70/Caster/raw/master/Washer.PNG)
 The name washer through me off because i thought that it would be something big but it was just a circular thing
 
