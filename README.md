@@ -6,3 +6,5 @@
 
 
 ![Tire](https://github.com/ayahya70/Caster/raw/master/Tire.PNG)
+
+![washer](https://github.com/ayahya70/Caster/raw/master/washer.PNG)
